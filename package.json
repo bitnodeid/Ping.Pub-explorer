@@ -2,6 +2,7 @@
   "name": "ping-wallet",
   "license": "GPL-2.0",
   "version": "0.1.0",
+  "homepage": "/node_service/Ping.Pub-explorer/public/",  
   "author": {
     "name": "ping.pub"
   },
@@ -125,3 +126,4 @@
     "webpack-bundle-analyzer": "^4.7.0"
   }
 }
+
