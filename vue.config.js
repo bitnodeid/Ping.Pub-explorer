@@ -6,7 +6,7 @@ const NodePolyfillPlugin = require('node-polyfill-webpack-plugin')
 // const productionGzipExtensions = ['js', 'css']
 
 module.exports = {
-  publicPath: '//node_service/Ping.Pub-explorer/public/',
+  publicPath: '/',
   productionSourceMap: false,
   css: {
     loaderOptions: {
