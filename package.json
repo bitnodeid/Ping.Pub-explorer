@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "homepage": "/node_service/Ping.Pub-explorer/public/",
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "author": {
     "name": "ping.pub"
